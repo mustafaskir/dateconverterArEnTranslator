@@ -1,10 +1,11 @@
 
-> 
+```javascript
 const conv = new convertHjri(new Date(), 'yyyy-mm-dd'), lang)
 
 const date = conv.convert()
+```
 
-######response ar
+###### response ar
 {
 
 Gday:9,
@@ -29,7 +30,7 @@ wkday:"الاثنين"
 
 }
 
-######response en
+###### response en
 {
 
 Gday:9
