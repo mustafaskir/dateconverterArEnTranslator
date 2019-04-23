@@ -13,6 +13,15 @@ See the License for the specific language governing permissions and limitations 
 Credit:
 Original code: http://www.staff.science.uu.nl/~gent0113/islam/ummalqura_converter.htm
 */
+
+/****
+ * 
+ * UPDATED BY MustafSkyer https://github.com/mustafaskir/
+ * ANY ISSUES PLEASE REFER TO https://github.com/mustafaskir/dateconverterArEnTranslator/issues
+ * 
+ ****/
+
+
 diyanet_dat = new Array(15141, 15171, 15200, 15230, 15259, 15289, 15318, 15348, 15377, 15407, 15436, 15466, 15495, 15525, 15554, 15584, 15613, 15643, 15672, 15702,
 	15731, 15761, 15790, 15820, 15850, 15880, 15909, 15939, 15968, 15998, 16027, 16057, 16086, 16116, 16145, 16175, 16204, 16234, 16263, 16293,
 	16322, 16352, 16381, 16411, 16440, 16470, 16499, 16529, 16558, 16588, 16617, 16647, 16676, 16706, 16735, 16765, 16794, 16824, 16853, 16883,
